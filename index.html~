@@ -3,23 +3,45 @@
 <head>
 <meta charset="utf-8">
 <title>Deven's Web Page Design I Site</title>
+<body>
+<h1>Welcome To My Website</h1>
+<h2 align="center">In the name of the moon i'll punish You</h2>
+<h2>Getting Down with HTML Lessons</h2>
+
+<li><a href="gdw.html">gdw.html</a></li>
+
 <style>
 h1 {
+    color: #000000;
+    text-align: center;
+}
+
+body {
+
 font-family: "Times New Roman", Times, serif;
 font-size: 25px;
 letter-spacing: 2px;
 word-spacing: 2px;
-color: #8E0000;
-font-weight: normal;
-text-decoration: none;
-font-style: italic;
-font-variant: normal;
-text-transform: none;
-}
-</style>
-<body>
-<h1>Deven's Web Page Design I Site</h1>
+color: #000000;
+font-variant: small-caps;
+text-transform: capitalize;
 
+  margin: 40px;
+          padding: 40px;
+          background-color: #DC143C;
+          border: 1px solid #000000;
+
+
+</style>
+
+<h3>Anime Site</h3>
+<ul>
+<li><a href="https://9anime.ru/">https://9anime.ru/</a><li>
+</ul>
+
+<h2>Anime</h2>
+
+<a href="https://Anime.html/">https://Anime.html/</a>
 
 </body>
 </html>
