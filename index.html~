@@ -39,16 +39,14 @@ text-transform: capitalize;
 <li><a href="https://9anime.ru/">https://9anime.ru/</a><li>
 </ul>
 
-<h2>Anime</h2>
-
-<a href="https://Anime.html/">https://Anime.html/</a>
+<h3>Place holder</h3>
 
 <footer>
 <a href="http://validator.w3.org/check?uri=https://BleachedToast.github.io/itd110/">
 <strong> HTML </strong> Valid! </a> |
-<a
-href="http://jigsaw.w3.org/css-validator/validator?uri=https://BleachedToast.github.io/itd110/?profile=css3">
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=https://BleachedToast.github.io/itd110/?profile=css3">
 <strong> CSS </strong> Valid! </a>
 </footer>
+
 </body>
 </html>
